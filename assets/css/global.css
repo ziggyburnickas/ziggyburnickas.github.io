@@ -11,7 +11,7 @@ input, button, textarea, select { font: inherit }
 
 /* ================= ENDS ================ */
 
-body { background-color: lightgreen; }
+body { background-color: #F8F988; }
 
 
 
@@ -58,4 +58,4 @@ p {
     font-size: 20px;
     margin-bottom: 16px;
 }
-a { color: darkgreen; }
+a { color: #59456e; }

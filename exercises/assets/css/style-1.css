@@ -9,7 +9,7 @@ body { line-height: 1.5; min-height: 100vh }
 img { width: 100%; height: auto; display: block }
 input, button, textarea, select { font: inherit }
 
-body { background-color: antiquewhite; }
+body { background-color: #191825}
 
 /* Desktops */
 @media (min-width: 768px) {
@@ -36,26 +36,26 @@ h1 {
     font-weight: normal;
     letter-spacing: -2px;
     margin-bottom: 32px;
-    color: brown;
+    color: #3A98B9;
 }
 
 h2 {
     font-size: 36px;
     margin-bottom: 4px;
-    color: brown;
+    color: #3A98B9;
 }
 
 h3 {
     font-size: 24px;
     margin-bottom: 4px;
-    color: brown;
+    color: #3A98B9;
 }
 
 p {
     font-family: sans-serif;
     line-height: 1.6;
     margin-bottom: 20px;
-    color: brown;
+    color: #3A98B9;
 }
 
-a { color: brown; }
+a { color: #3A98B9; }
