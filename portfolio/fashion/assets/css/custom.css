@@ -1,0 +1,15 @@
+/* Add your custom CSS here */
+.section-selector-1 { background-color: var(--green-800) }
+.section-selector-2 { background-color: var(--gray-200) }
+.section-selector-2 > p { color: var(--black-000) }
+.section-selector-2 > h2 { color: var(--black-000) }
+.section-selector-3 { background-color: var(--gray-200) }
+.section-selector-4 div[class^='flex-cols-'] div[class^='col-'] figure.icon { color: var(--white-000) }
+.section-selector-4.theme-dark { background-color: var(--green-800) }
+
+
+
+
+
+
+

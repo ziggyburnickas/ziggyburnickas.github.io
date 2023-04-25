@@ -1,0 +1,15 @@
+/* Add your custom CSS here */
+.section-selector-1 { background-color: var(--lime-400) }
+
+.section-selector-1.cols-2-half .col-2 h2 {
+    font-family: 'Saira Condensed', sans-serif;
+    letter-spacing: 1px;
+    font-size: calc(28px + (42 - 28) * ((100vw - 320px) / (1140 - 320)));
+    margin-top: 32px;
+    margin-bottom: 0;
+}
+
+.section-selector-2.theme-light { background-color: var(--white-000) }
+.section-selector-2 .cols-shadows .col-3 { box-shadow: rgba(237,242,247,0.9) 14px 14px 14px 0 }
+
+.section-selector-2 { font-family: 'Playfair Display', serif }
