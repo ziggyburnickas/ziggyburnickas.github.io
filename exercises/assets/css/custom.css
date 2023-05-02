@@ -1,0 +1,25 @@
+nav.theme-light,
+nav.theme-light ul.links-wrapper.active { background-color: var(--sky-400) }
+nav.theme-light ul.links-wrapper li a:link,
+nav.theme-light ul.links-wrapper li a:visited { color: var(--slate-050) }
+nav.theme-light ul.links-wrapper li a:focus,
+nav.theme-light ul.links-wrapper li a:hover,
+nav.theme-light ul.links-wrapper li a:active { color: var(--blue-800) }
+nav.theme-light a#btn-cta:link,
+nav.theme-light a#btn-cta:visited { color: var(--white-000) }
+nav.theme-light a#btn-cta:focus,
+nav.theme-light a#btn-cta:hover,
+nav.theme-light a#btn-cta:active { color: var(--blue-700) }
+nav.theme-light a#btn-cta:link,
+nav.theme-light a#btn-cta:visited { background-color: var(--lime-700) }
+nav.theme-light a#btn-cta:link,
+nav.theme-light a#btn-cta:visited { border-color: var(--lime-800) }
+header.theme-light { background-color: var(--white-000) }
+header.theme-light .container-btn a.btn:nth-child(1):focus,
+header.theme-light .container-btn a.btn:nth-child(1):hover,
+header.theme-light .container-btn a.btn:nth-child(1):active { background-color: var(--black-000) }
+
+header.theme-light .container-btn a.btn:nth-child(2):focus,
+header.theme-light .container-btn a.btn:nth-child(2):hover,
+header.theme-light .container-btn a.btn:nth-child(2):active { background-color: var(--black-000) }
+
